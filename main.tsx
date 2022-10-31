@@ -2,7 +2,7 @@ import blog, { ga, redirects, h } from "blog";
 
 blog({
   title: "Usmon Hamidulloh",
-  // description: "Linux lover especially Arch Linux",
+  description: "a person who likes cats",
   avatar: "./assets/usmon-hamidulloh.jpg",
   avatarClass: "rounded-full",
   author: "Usmon Hamidulloh",
