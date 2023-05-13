@@ -8,9 +8,8 @@ blog({
   author: "Usmon Hamidulloh",
   lang: "en",
   links: [
-    {title: "Email", url: "mailto:contact@usmon.me"},
+    {title: "Email", url: "mailto:hello@usmon.me"},
     {title: "Github", url: "https://github.com/UsmonHamidulloh"},
-    {title: "Twitter", url: "https://twitter.com/UsmonHamidulloh"},
     {title: "Linkedin", url: "https://www.linkedin.com/in/usman-hamidulloh/"}
   ]
 });
